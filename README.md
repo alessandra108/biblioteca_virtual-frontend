@@ -74,7 +74,8 @@ O livro aparecerá na **lista inicial** com botões para Editar ou Excluir
 
 📸 Captura de Tela
 
-![image](https://github.com/user-attachments/assets/b0309392-e7ef-434c-95fe-a38606166735)
+![Captura de tela 2025-05-02 180405](https://github.com/user-attachments/assets/95880e9e-febf-45df-b7ba-c2063ebdfcb0)
+
 
 
 ✨ **Feito com 💙 por pessoas que amam ler**
